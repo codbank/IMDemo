@@ -1,7 +1,6 @@
-package com.example.blksupm.im;
+package com.example.blksupm.im.main;
 
-import android.util.Log;
-
+import com.example.blksupm.im.main.MainBiz;
 import com.example.blksupm.im.model.User;
 import com.example.blksupm.im.mvpinterface.IMainBiz;
 import com.example.blksupm.im.mvpinterface.IMainUIView;

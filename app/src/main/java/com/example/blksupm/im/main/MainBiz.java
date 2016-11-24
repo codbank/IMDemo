@@ -1,4 +1,4 @@
-package com.example.blksupm.im;
+package com.example.blksupm.im.main;
 
 import com.example.blksupm.im.mvpinterface.IMainBiz;
 
